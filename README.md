@@ -1,2 +1,2 @@
 # IoTCapstone
-Microsoft Azure Capstone Project
+Microsoft Professional Capstone: Internet of Things
